@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gray; 
+}
+.height{
+    margin-top: -500px;
+    margin-left: 1018px;
+}
+.main{
+    text-align: center;
+    color: white;
+    width: 50%;
+}
+input{
+    padding: 5px;
+    border: None;
+    border-radius: 5px;
+    margin: 10px;
+    margin-left: 150px;
+}
+button{
+    border-radius: 5px;
+    border: None;
+    padding: 5px;
+    margin: 10px;
+    background-color:peachpuff;
+}
+.t{
+    margin-left: 160px;
+    color: skyblue;
+}
